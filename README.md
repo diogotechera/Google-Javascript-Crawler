@@ -3,9 +3,10 @@
  Simple Javarawler thats count the most popular Javascripts libs based on a Google Search Result.
  
   You can run it with Gradle, just build it with:
-    gradle build
+    
+ gradle build
    
-   Than execute the generated jar file in /build/libs:
+   Then execute the generated jar file in /build/libs:
    
     java -jar google-javascript-crawler.jar <GOOGLE SEARCH QUERY>
     
