@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Google Javascript Crawler.iml" filepath="$PROJECT_DIR$/.idea/modules/Google Javascript Crawler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Google_Javascript_Crawler_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Google_Javascript_Crawler_main.iml" group="Google Javascript Crawler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Google_Javascript_Crawler_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Google_Javascript_Crawler_test.iml" group="Google Javascript Crawler" />
+    </modules>
+  </component>
+</project>
