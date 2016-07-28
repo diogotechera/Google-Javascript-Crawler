@@ -1,6 +1,6 @@
 # Google-Javascript-Crawler
 
- Simple Javarawler thats count the most popular Javascripts libs based on a Google Search Result.
+ Simple Java crawler that counts the most popular Javascripts libs based on a Google search result.
  
   You can run it with Gradle, just build it with:
     
