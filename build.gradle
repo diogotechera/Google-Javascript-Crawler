@@ -16,8 +16,7 @@ apply plugin: 'eclipse'
 apply plugin: 'spring-boot'
 
 jar {
-	baseName = 'Google Javascript Crawler'
-	version = '0.0.1-SNAPSHOT'
+	baseName = 'google-javascript-crawler'
 }
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
